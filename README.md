@@ -12,7 +12,7 @@ A simple Python project to clean, analyze, and visualize student exam data.
 
 2. Install requirements
 
-pip install pandas numpy matplotlib
+   pip install pandas numpy matplotlib
 
 3. Run scripts
 
